@@ -1,4 +1,4 @@
-### application.bat - 2014 - JARNOIN ###
+### application.bat - 2014 - JARNOIN & Alex ###
 echo "Copyright company - 2014"
 
 version = "2"
