@@ -1,4 +1,8 @@
 ### application.bat - 2014 - JARNOIN ###
 echo "Copyright company - 2014"
-echo "version 1.1"
-echo "Build : 15:33"
+
+version = "2"
+build_hour = "12:08"
+
+echo "Build ${build_hour}"
+echo "version ${version}"
